@@ -1,10 +1,10 @@
 # Code for KTCG
 
-![Paper](https://img.shields.io/badge/Paper-ICIC%202025-blue)
+![Paper](https://img.shields.io/badge/Paper-ISWC%202025-blue)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/)
 [![PyTorch 1.10+](https://img.shields.io/badge/PyTorch-1.10%2B-red)](https://pytorch.org/)
 
-This repository contains the official implementation of ​**KTCG**.
+This repository contains the official implementation of ​**SEED**.
 
 ## Requirements
 The code has been tested running under Python 3.8.0. Required packages:
@@ -22,7 +22,7 @@ The code has been tested running under Python 3.8.0. Required packages:
 
 ## Dataset
 
-We provide three processed datasets: Book-Crossing, MovieLens-1M, and Last.FM.
+We provide three processed datasets: Yelp, Tmall, and Retail.
 
 We follow the paper " [Knowledge-Enhanced Hierarchical Graph Transformer Network
 for Multi-Behavior Recommendation](https://github.com/akaxlh/KHGT)." to process data.
