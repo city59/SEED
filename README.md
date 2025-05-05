@@ -33,6 +33,9 @@ for Multi-Behavior Recommendation](https://github.com/akaxlh/KHGT)." to process 
 | Yelp    | 19,800  | 22,734 | 1,400,002    | Dislike, Neutral, Tip, Like    |
 | Tmall   | 31,882  | 31,232 | 1,451,219    | View, Favorite, Cart, Purchase |
 | Retail  | 147,894 | 99,037 | 1,584,238    | Favorite, Cart, Purchase       | 
+
+
+
 The other two datasets are available from (https://github.com/akaxlh/KHGT).
 
 
