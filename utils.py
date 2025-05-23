@@ -135,10 +135,11 @@ def dp_semantic_domains(relations_embeddings, alpha=1.0, max_domains=10, random_
         n_components=current_max_domains,
         weight_concentration_prior=alpha,
         covariance_type='full',
-        max_iter=200,
+        max_iter=1000,
         random_state=random_state,
         n_init=3,
-        weight_concentration_prior_type='dirichlet_process'
+        weight_concentration_prior_type='dirichlet_process',
+        tol=1e-3,
     )
 
     try:
