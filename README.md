@@ -1,6 +1,5 @@
 # Code for SEED
 
-![Paper](https://img.shields.io/badge/Paper-CIKM%202025-blue)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/)
 [![PyTorch 1.10+](https://img.shields.io/badge/PyTorch-1.10%2B-red)](https://pytorch.org/)
 
